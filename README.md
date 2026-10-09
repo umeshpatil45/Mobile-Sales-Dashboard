@@ -29,7 +29,7 @@ customer ratings, and time periods.
 
 ## 🖼️ Dashboard Preview
 
-![Mobile Sales Dashboard](dashboard.png)
+![Mobile Sales Dashboard](Dashboard.png)
 
 ## 🎯 Project Objective
 
